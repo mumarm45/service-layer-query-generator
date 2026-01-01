@@ -209,3 +209,6 @@ __marimo__/
 .env
 
 *.txt
+
+# ChromaDB persistent storage
+chroma_db/
